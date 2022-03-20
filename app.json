@@ -66,13 +66,13 @@
             "required": true,
             "value": "^[.@#!,]"
         },
-        "CHATBOT": {
-            "description": "Turn your account into a chatbot!",
+        "CHAT_BOT": {
+            "description": "Hesabınızı bir sohbet bot'una dönüştürün! | Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
         "CALL_BLOCK": {
-            "description": "Set true if you need to block people who calls you 📞.",
+            "description": "📞 Sizi arayan kişileri engellemek istiyorsanız "true" olarak değiştirin. | Set true if you need to block people who calls you.",
             "required": true,
             "value": "false"
         },
