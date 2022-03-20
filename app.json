@@ -164,7 +164,7 @@
             "value": "true"
         },
         "AUTO_STICKER": {
-            "description": "Otomatik çıkartma sistemi.",
+            "description": "Otomatik çıkartma gönderme sistemi.",
             "required": false,
             "value": "false"
         },
