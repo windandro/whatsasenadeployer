@@ -72,7 +72,7 @@
             "value": "false"
         },
         "CALL_BLOCK": {
-            "description": "📞 Sizi arayan kişileri engellemek istiyorsanız "true" olarak değiştirin. | Set true if you need to block people who calls you.",
+            "description": "📞 Sizi arayan kişileri engellemek istiyorsanız “true” olarak değiştirin. | Set true if you need to block people who calls you.",
             "required": true,
             "value": "false"
         },
