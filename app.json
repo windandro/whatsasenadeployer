@@ -77,16 +77,16 @@
             "value": "false"
         },
         "HEROKU_API_KEY": {
-            "description": "Heroku API Key. (You can find it in account settings)",
+            "description": "Heroku API Anahtarı. (Hesap ayarlarından bulabilirsiniz) | Heroku API Key. (You can find it in account settings)",
             "required": true
         },
         "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 91xxxx && 91xxxx-1xxx or 91xxxxx,91xxxx...",
+            "description": "Botun hangi sohbette çalışmayacağını belirleyin. Örn: 905xxxx && 905xxxx-1xxx veya 905xxxx,905xxx... | Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
             "required": false,
-            "value": "919074309534"
+            "value": "0"
         },
         "WORK_TYPE": {
-            "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "WhatsAsena'nın Çalışma Şekli. “Public” olarak ayarlarsanız, herkes botu kullanabilir. “private” olarak ayarlarsanız ise botunuzu sadece siz kullanabilirsiniz. | WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
