@@ -42,19 +42,19 @@
             "value": "true"
         },
         "ALL_IMG": {
-            "description": "Give an image link for your bot!",
+            "description": "Botunuz için bir resim ayarlayın! | Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://i.hizliresim.com/kovl9ad.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "https://www.youtube.com/channel/UCw41-XXCF_h9Cin_ARWANwQ"
         },
         "ALL_CAPTION": {
-            "description": "Give your caption here. Example: Made by Raganork.",
+            "description": "Mesajlarda gösterilecek bir başlık ayarlayın. | Set a header to show in the messages.",
             "required": true,
-            "value": "*YOUR CAPTION HERE*"
+            "value": "Made by WhatsAsena*"
         },
         "VERIFIED": {
             "description": "Jid given above the verified tick. Use 0 for official WhatsApp",
@@ -62,9 +62,9 @@
             "value": "0@s.whatsapp.net"
         },
         "HANDLERS": {
-            "description": "Prefix for commands. (.assist, !assist ,assist)",
+            "description": "Komutlar için önek. | Prefix for commands. (.asena, !asena ,asena)",
             "required": true,
-            "value": "^[,@#!.]"
+            "value": "^[.@#!,]"
         },
         "CHATBOT": {
             "description": "Turn your account into a chatbot!",
