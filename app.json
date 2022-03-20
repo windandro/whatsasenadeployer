@@ -15,7 +15,7 @@
        "C_CODE": {
             "description": "Ülke kodunuz. Türkiye için 90 yazın!.. | Your country code. Use 90 for Turkey!..",
             "required": true,
-            "value": "91"
+            "value": "90"
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it!",
@@ -24,7 +24,7 @@
         "LANGUAGE": {
             "description": "Bot language. English => en, Malayalam => ml, Hindi => HI,",
             "required": true,
-            "value": "en"
+            "value": "tr"
         },
         "M_REPLY": {
             "description": "Auto reply when mentioned.",
