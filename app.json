@@ -91,22 +91,22 @@
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
+            "description": "Heroku Uygulama İsmi. | Heroku APP Name.",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
-            "description": "visit https://remove.bg for api key",
+            "description": "Fotoğrafların arkaplanını kaldırmaya yarar. Remove.bg isimli siteden “API Key” alın. | Visit https://remove.bg for api key.",
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
+            "description": "Botun çalışıp çalışmadığını anlamaya yarar. Değiştirebilirsiniz. | It helps to understand whether the bot is running or not. You can change it.",
             "required": false,
-            "value": "BOT IS CURRENTLY RUNNING WITH NO ERRORS!"
+            "value": "BOT ÇALIŞIYOR!"
         },
         "BAN_MESSAGE": {
-            "description": "Customizable Ban Message! Use => default, to change back.",
+            "description": "Ban atıldığında gönderilecek mesajı ayarlar. Değiştirebilirsiniz. | Sets the message to be sent when the ban is kicked. You can change it.",
             "required": false,
-            "value": "_See you later!_"
+            "value": "_Güle güle!.._"
         },
         "SONGD": {
             "description": "Customizable song uploading message!",
@@ -114,7 +114,7 @@
             "value": "_Uploading song.._"
         },
         "KICKME_MESSAGE": {
-            "description": "Customizable Kickme Message! Use => default, to change back.",
+            "description": "Bot ayrıldığında gönderilecek olan mesajı ayarlar. | Sets the message to be sent when the bot leaves.",
             "required": false,
             "value": "_I'm leaving, Bye!_"
         },
