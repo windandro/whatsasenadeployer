@@ -67,7 +67,7 @@
             "value": "^[.@#!,]"
         },
         "CHAT_BOT": {
-            "description": "Hesabınızı bir sohbet bot'una dönüştürün! | Turn your account into a chatbot!",
+            "description": "Hesabınızı bir sohbet botuna dönüştürün! | Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
