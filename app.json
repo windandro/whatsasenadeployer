@@ -52,7 +52,7 @@
             "value": "https://www.youtube.com/channel/UCw41-XXCF_h9Cin_ARWANwQ"
         },
         "FIND_KEY": {
-            "description": "Ses kaydı aracılığıyla şarkı bilgilerini bulmaya yarar. (Shazam gibi...) | It is used to find song information through audio recording. (Like Shazam...)",
+            "description": "Ses kaydı aracılığıyla şarkı bilgilerini bulmaya yarar. (Shazam gibi...) API Keyi https://dashboard.audd.io/ sitesinden edinebilirsiniz. | It is used to find song information through audio recording. (Like Shazam...) API Token from https://dashboard.audd.io/",
             "required": true,
             "value": ""
         },
@@ -147,11 +147,6 @@
             "description": "Instagram sayfanızın linki. (İsteğe bağlı)| Your instagram link. (Optional)",
             "required": false,
             "value": "https://instagram.com/username"
-        },
-        "OWNER_NAME": {
-            "description": "Owner name used in many commands! Type your name here.",
-            "required": false,
-            "value": "𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 𝗵𝗲𝗿𝗲"
         },
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
