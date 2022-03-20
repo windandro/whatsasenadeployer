@@ -22,17 +22,17 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. English => en, Malayalam => ml, Hindi => HI,",
+            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Manglish => mg, Malayalam => ml, Hindi => HI, Indonesia => ID",
             "required": true,
             "value": "tr"
         },
         "M_REPLY": {
-            "description": "Auto reply when mentioned.",
+            "description": "Bahsedildiğinde otomatikman yanıtla. | Auto reply when mentioned.",
             "required": true,
-            "value":"Why do you mentioned me?"
+            "value":"Neden benden bahsettin?"
         },
         "M_REPLY_VAR": {
-            "description": "Auto reply true/false.",
+            "description": "Mesajları etiketleyerek yanıtlama. | Reply to messages by tagging.",
             "required": true,
             "value":"true"
 },
