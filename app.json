@@ -51,6 +51,11 @@
             "required": true,
             "value": "https://www.youtube.com/channel/UCw41-XXCF_h9Cin_ARWANwQ"
         },
+        "FIND_KEY": {
+            "description": "Ses kaydı aracılığıyla şarkı bilgilerini bulmaya yarar. (Shazam gibi...) | It is used to find song information through audio recording. (Like Shazam...)",
+            "required": true,
+            "value": ""
+        },
         "ALL_CAPTION": {
             "description": "Mesajlarda gösterilecek bir başlık ayarlayın. | Set a header to show in the messages.",
             "required": true,
