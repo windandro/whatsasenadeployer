@@ -163,6 +163,11 @@
             "required": false,
             "value": "true"
         },
+        "AUTO_STICKER": {
+            "description": "Otomatik çıkartma sistemi.",
+            "required": false,
+            "value": "false"
+        },
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": false,
