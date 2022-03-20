@@ -13,7 +13,7 @@
             "required": true
         },
        "C_CODE": {
-            "description": "Your country code. Use 91 for India!.",
+            "description": "Ülke kodunuz. Türkiye için 90 yazın!.. | Your country code. Use 90 for Turkey!..",
             "required": true,
             "value": "91"
         },
