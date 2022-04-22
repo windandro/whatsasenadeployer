@@ -113,20 +113,10 @@
             "required": false,
             "value": "_Güle güle!.._"
         },
-        "SONGD": {
-            "description": "Customizable song uploading message!",
-            "required": false,
-            "value": "_Uploading song.._"
-        },
         "KICKME_MESSAGE": {
             "description": "Bot ayrıldığında gönderilecek olan mesajı ayarlar. | Sets the message to be sent when the bot leaves.",
             "required": false,
             "value": "_I'm leaving, Bye!_"
-        },
-        "SONGD": {
-            "description": "Customizable song downloading message!",
-            "required": true,
-            "value": "_Searching song.._"
         },
         "ALL_NUMBER": {
             "description": "Bot'u kullanacağınız numarayı buraya yazın. | Write the number you will use the bot here.",
@@ -137,6 +127,11 @@
             "description": "Shows on top of verified tick. Type any words here.",
             "required": true,
             "value": "Onaylı."
+        },
+        "GROUP_LINK": {
+            "description": "Official group link of your bot.",
+            "required": false,    
+            "value": "https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız “true” yazın. Type true if you don't want to appear online.",
